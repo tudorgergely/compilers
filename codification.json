@@ -1,0 +1,134 @@
+[
+  {
+    "name": "identifier",
+    "code": 0
+  },
+  {
+    "name": "constant",
+    "code": 1
+  },
+  {
+    "name": "int",
+    "code": 2
+  },
+  {
+    "name": "char",
+    "code": 3
+  },
+  {
+    "name": "string",
+    "code": 4
+  },
+  {
+    "name": "while",
+    "code": 5
+  },
+  {
+    "name": "if",
+    "code": 6
+  },
+  {
+    "name": "else",
+    "code": 7
+  },
+  {
+    "name": ":",
+    "code": 8
+  },
+  {
+    "name": "+",
+    "code": 9
+  },
+  {
+    "name": "-",
+    "code": 10
+  },
+  {
+    "name": "*",
+    "code": 11
+  },
+  {
+    "name": "/",
+    "code": 12
+  },
+  {
+    "name": "(",
+    "code": 13
+  },
+  {
+    "name": ")",
+    "code": 14
+  },
+  {
+    "name": "[",
+    "code": 15
+  },
+  {
+    "name": "]",
+    "code": 16
+  },
+  {
+    "name": "<",
+    "code": 17
+  },
+  {
+    "name": ">",
+    "code": 18
+  },
+  {
+    "name": ">=",
+    "code": 19
+  },
+  {
+    "name": "<=",
+    "code": 20
+  },
+  {
+    "name": "==",
+    "code": 21
+  },
+  {
+    "name": "=",
+    "code": 22
+  },
+  {
+    "name": "&&",
+    "code": 23
+  },
+  {
+    "name": "||",
+    "code": 24
+  },
+  {
+    "name": "{",
+    "code": 26
+  },
+  {
+    "name": "}",
+    "code": 27
+  },
+  {
+    "name": "bool",
+    "code": 28
+  },
+  {
+    "name": "read",
+    "code": 29
+  },
+  {
+    "name": "print",
+    "code": 30
+  },
+  {
+    "name": "!=",
+    "code": 31
+  },
+  {
+    "name": " ",
+    "code": 32
+  },
+  {
+    "name": "\n",
+    "code": 33
+  }
+]
